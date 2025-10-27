@@ -1,3 +1,8 @@
+# Sanjana S  
+**Cybersecurity Enthusiast | BCA Graduate | Aspiring Security Analyst**  
+🔗 [LinkedIn](https://www.linkedin.com/in/sanjana-s-05b041302) | 📧 sanjanaa.s0607@gmail.com  
+
+---
 # 🛡️ Vulnerability Assessment and Penetration Testing (VAPT) – FinTech Web Application
 
 ## 📘 Project Overview
